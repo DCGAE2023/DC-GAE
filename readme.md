@@ -79,3 +79,4 @@ python main_backbone_mlpae.py # Run baseline model MLPAE
 | GUIDE      | GNN+AE     |
 | CONAD      | GNN+AE+SSL |
 
+![]https://github.com/DCGAE2023/DC-GAE/blob/master/Nodes_time.png
